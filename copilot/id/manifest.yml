@@ -1,9 +1,9 @@
-# The manifest for the "ddbid" service.
+# The manifest for the "id" service.
 # Read the full specification for the "Request-Driven Web Service" type at:
 # https://aws.github.io/copilot-cli/docs/manifest/rd-web-service/
 
 # Your service name will be used in naming your resources like log groups, App Runner services, etc.
-name: ddbid
+name: id
 # The "architecture" of the service you're running.
 type: Request-Driven Web Service
 
